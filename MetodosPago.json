@@ -1,0 +1,22 @@
+[
+    {
+        "Banco":"BBVA",
+        "CVV":233,
+        "Numero":2223444433324366
+    },
+    {
+        "Banco":"Banorte",
+        "CVV":986,
+        "Numero":8876778965435678
+    },
+    {
+        "Banco":"Santander",
+        "CVV":998,
+        "Numero":2223311233432367
+    },
+    {
+        "Banco":"HSBC",
+        "CVV":283,
+        "Numero":2223111277654321
+    }
+]

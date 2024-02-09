@@ -1,0 +1,26 @@
+[
+    {
+        "Banco":"Oziel Dorantes Lopez",
+        "CVV":23,
+        "Numero":"Punta Norte 101",
+        "Municipio":"Monterrey"
+    },
+    {
+        "Nombre":"Fernando Hernandez Gutierrez",
+        "Edad":45,
+        "Direccion":"Punta Cana 131",
+        "Municipio":"San Nicolas"
+    },
+    {
+        "Nombre":"Merlin Dylan Gonzales Castro",
+        "Edad":63,
+        "Direccion":"Punta Sur 234",
+        "Municipio":"Santa Catarina"
+    },
+    {
+        "Nombre":"Gerardo Alvarado Bosan",
+        "Edad":29,
+        "Direccion":"Punta Este 990",
+        "Municipio":"Monterrey"
+    }
+]
